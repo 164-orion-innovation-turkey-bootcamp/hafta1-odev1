@@ -1,4 +1,4 @@
-# Part 1
+# hafta1-odev1
 
 <strong>1-) Bir sayı dizisi ve hedef değeri veriliyor. Toplamı, hedefe eşit olan ikililerin indexlerini dönen fonksiyonu yazınız.</strong>
 
